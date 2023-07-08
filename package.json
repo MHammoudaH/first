@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "googleapis": "^120.0.0",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "webpack-cli": "^5.1.4"
+  },
+  "name": "worker-clock-app",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  
+  "author": "",
+  "license": "ISC"
+}
